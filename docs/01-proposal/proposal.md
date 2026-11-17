@@ -2,7 +2,7 @@
 
 ## Status
 
-This is an initial proposal for stakeholder review. The feature requirements below are a starting point, not approved or complete requirements. Detailed drafts are maintained in the [software requirements specification](../03-requirements/software-requirements-specification.md) and [feature requirements](../03-requirements/feature-requirements.md). Confirm the problem and priorities with students, teachers, and the project team before implementation.
+This is an initial proposal for stakeholder review. The feature requirements below are a starting point, not approved or complete requirements. Detailed drafts are maintained in the [software requirements specification](../03-requirements/software-requirements-specification.md) and [feature requirements](../03-requirements/feature-requirements.md). Confirm the problem and priorities with students, teachers, and the project contributor before implementation.
 
 ## Project summary
 
@@ -32,7 +32,7 @@ School administrators and other user types are not included in the initial scope
 
 ## Proposed initial requirements
 
-These draft requirements describe the intended first scope. The team should refine their details and priorities with stakeholders.
+These draft requirements describe the intended first scope. The contributor should refine their details and priorities with stakeholders.
 
 ### Functional requirements
 
@@ -73,4 +73,4 @@ Live video lessons, payment processing, and SMS notifications are outside the in
 
 ## Proposed validation
 
-Before implementation, discuss the problem statement and draft requirements with representative students and teachers if available. Record their feedback, resolve high-impact open questions, and update the prioritized backlog and acceptance criteria. Use the project's three-week iterative process to review and refine the proposal as the team learns more. Track questions and session outcomes in [elicitation notes](../03-requirements/elicitation-notes.md).
+Before implementation, discuss the problem statement and draft requirements with representative students and teachers if available. Record their feedback, resolve high-impact open questions, and update the prioritized backlog and acceptance criteria. Use the project's three-week iterative process to review and refine the proposal as requirements are validated. Track questions and session outcomes in [elicitation notes](../03-requirements/elicitation-notes.md).

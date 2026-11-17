@@ -21,16 +21,13 @@ Later (out of scope for the initial increment): live video lessons, payment proc
 - **External service:** None selected. The initial requirements should establish whether an external service is needed.
 - **Data:** The proposed features may require user accounts, course and enrollment information, learning materials, assignments, and student submissions. Confirm what is stored and who can access it during requirements elicitation.
 
-## Team (roles rotate every 3 weeks)
+## Project contributor
 
-Team members and GitHub accounts have not yet been provided.
+This project was completed by one contributor, who handled all project responsibilities.
 
-| Name | GitHub | Role (weeks 1-3) |
-|------|--------|------------------|
-| TBD | TBD | Project manager |
-| TBD | TBD | Lead developer |
-| TBD | TBD | Tester |
-| TBD | TBD | Documentation lead |
+| Contributor | GitHub | Responsibilities |
+|-------------|--------|-------------------|
+| Repository owner | @oseiwusujepther-1 | Project management, development, testing, and documentation |
 
 ## Process model
 
