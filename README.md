@@ -1,4 +1,4 @@
-# school-LMS
+# school_lms
 Addressing e-educcation
 # <Project name>
 
