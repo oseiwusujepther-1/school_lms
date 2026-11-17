@@ -1,4 +1,4 @@
-# EssinimpongMALMS
+# school-LMS
 Addressing e-educcation
 # <Project name>
 
