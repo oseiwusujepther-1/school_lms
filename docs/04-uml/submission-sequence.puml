@@ -1,0 +1,21 @@
+@startuml
+actor Student
+participant "School LMS" as LMS
+
+Student -> LMS: Submit work for an assignment
+activate LMS
+LMS -> LMS: Check course access and assignment availability
+
+alt Student is not authorized or assignment is unavailable
+  LMS --> Student: Show reason submission cannot proceed
+else Student is authorized and assignment is available
+  LMS -> LMS: Validate and record submission
+  alt Submission is recorded
+    LMS --> Student: Confirm successful submission
+  else Submission cannot be recorded
+    LMS --> Student: Report failure; do not show success
+  end
+end
+
+deactivate LMS
+@enduml

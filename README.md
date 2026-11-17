@@ -1,41 +1,52 @@
 # school_lms
-Addressing e-educcation
-# <Project name>
 
-> One-sentence description: <who> can <do what> so that <benefit>.
+A welcoming digital classroom that brings course materials, assignments, and student work together—helping teachers stay organized and students stay on track.
 
 ## The problem
-<2-3 sentences: who suffers, how they cope today, why it matters.>
+
+Learning materials, assignment instructions, and submitted work can be spread across different channels, making it difficult for students to know what they need to do and for teachers to keep track of class work. This project proposes a shared learning management system where course activities and related materials can be organized together. The specific users, workflows, and requirements still need to be confirmed with the project stakeholders.
 
 ## Core features
-1. <Feature> - see docs/03-requirements/<feature>.md
-2. <Feature>
-3. <Feature>
 
-Later (out of scope for now): <ideas we have parked>
+The following are proposed priorities for the first increment; detailed requirements have not yet been added.
+
+1. **User accounts and roles** - distinguish students and teachers and provide access to their relevant learning activities.
+2. **Course materials** - let teachers organize learning materials by course and let students access them.
+3. **Assignments and submissions** - let teachers post assignments and students submit their work.
+
+Later (out of scope for the initial increment): live video lessons, payment processing, and SMS notifications. Revisit these after the core requirements are agreed.
 
 ## External service and data
-- External service: <SMS or payment sandbox name>
-- Data stored: <users, bookings, payments...>
+
+- **External service:** None selected. The initial requirements should establish whether an external service is needed.
+- **Data:** The proposed features may require user accounts, course and enrollment information, learning materials, assignments, and student submissions. Confirm what is stored and who can access it during requirements elicitation.
 
 ## Team (roles rotate every 3 weeks)
+
+Team members and GitHub accounts have not yet been provided.
+
 | Name | GitHub | Role (weeks 1-3) |
 |------|--------|------------------|
-|      | @      | Project manager  |
-|      | @      | Lead developer   |
-|      | @      | Tester           |
-|      | @      | Documentation lead |
+| TBD | TBD | Project manager |
+| TBD | TBD | Lead developer |
+| TBD | TBD | Tester |
+| TBD | TBD | Documentation lead |
 
 ## Process model
-<Model> - see docs/02-process-model/process-model.md
+
+Iterative and incremental, using Scrum-inspired three-week iterations. See [`docs/02-process-model/process-model.md`](docs/02-process-model/process-model.md) for the approach and requirements workflow.
 
 ## Documentation
-| Folder | Contents |
-|--------|----------|
-| docs/01-proposal | Problem statement, member profiles |
-| docs/02-process-model | Process model justification |
-| docs/03-requirements | SRS, requirements, elicitation notes |
-| docs/04-uml | UML diagrams |
+
+The proposal, process-model, requirements, and UML documentation are in place. The UML diagrams are drafts and should be updated as requirements are validated.
+
+| Folder | Planned contents |
+|--------|------------------|
+| `docs/01-proposal` | Project proposal, problem statement, and initial requirements |
+| `docs/02-process-model` | Process model and justification |
+| `docs/03-requirements` | Software requirements specification, feature requirements, and elicitation notes |
+| `docs/04-uml` | UML diagrams |
 
 ## How to run
-<Fill in from Week 6, when the first working increment exists.>
+
+This repository currently contains project documentation only; no application is available to run. Setup and run instructions will be added when the first working increment is implemented.

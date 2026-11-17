@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+
+actor Student
+actor Teacher
+
+rectangle "School LMS" {
+  usecase "Access course materials" as UC1
+  usecase "View course assignments" as UC2
+  usecase "Submit assignment work" as UC3
+  usecase "Organize course materials" as UC4
+  usecase "Publish course assignment" as UC5
+  usecase "Review submissions" as UC6
+}
+
+Student --> UC1
+Student --> UC2
+Student --> UC3
+Teacher --> UC4
+Teacher --> UC5
+Teacher --> UC6
+@enduml

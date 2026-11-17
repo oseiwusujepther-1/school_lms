@@ -1,0 +1,30 @@
+@startuml
+hide methods
+skinparam classAttributeIconSize 0
+
+abstract class User
+class Student
+class Teacher
+class Course
+class Enrollment
+class LearningMaterial
+class Assignment
+class Submission
+
+User <|-- Student
+User <|-- Teacher
+
+Student "1" -- "0..*" Enrollment : has
+Course "1" -- "0..*" Enrollment : includes
+Teacher "0..*" -- "0..*" Course : manages
+Course "1" -- "0..*" LearningMaterial : contains
+Course "1" -- "0..*" Assignment : offers
+Assignment "1" -- "0..*" Submission : receives
+Student "1" -- "0..*" Submission : makes
+
+note bottom
+  Conceptual relationships only.
+  Enrollment and teacher/course assignment
+  rules are not yet confirmed.
+end note
+@enduml
