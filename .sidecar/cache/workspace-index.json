@@ -1,1 +1,197 @@
-
+{
+  "version": 1,
+  "buildTime": "2026-10-03T18:10:04.437Z",
+  "fileCount": 38,
+  "files": [
+    {
+      "path": "assets/js/app.js",
+      "size": 8836,
+      "score": 0.1
+    },
+    {
+      "path": "TODO.md",
+      "size": 3799,
+      "score": 0.02
+    },
+    {
+      "path": "_add_weekly_enrollment.php",
+      "size": 821,
+      "score": 0.1
+    },
+    {
+      "path": "_add_staff_attendance.php",
+      "size": 975,
+      "score": 0.1
+    },
+    {
+      "path": "_add_security_question.php",
+      "size": 645,
+      "score": 0.1
+    },
+    {
+      "path": "_add_password_plain.php",
+      "size": 1192,
+      "score": 0.1
+    },
+    {
+      "path": "_add_matron_records.php",
+      "size": 1723,
+      "score": 0.1
+    },
+    {
+      "path": "_add_column.php",
+      "size": 485,
+      "score": 0.1
+    },
+    {
+      "path": "teacher_register.php",
+      "size": 12156,
+      "score": 0.1
+    },
+    {
+      "path": "teacher/submit_report.php",
+      "size": 3238,
+      "score": 0.1
+    },
+    {
+      "path": "teacher/report_card.php",
+      "size": 35261,
+      "score": 0.1
+    },
+    {
+      "path": "teacher/my_class.php",
+      "size": 3207,
+      "score": 0.1
+    },
+    {
+      "path": "teacher/dashboard.php",
+      "size": 15565,
+      "score": 0.1
+    },
+    {
+      "path": "teacher/broadsheet.php",
+      "size": 20166,
+      "score": 0.1
+    },
+    {
+      "path": "security_question.php",
+      "size": 3594,
+      "score": 0.1
+    },
+    {
+      "path": "logout.php",
+      "size": 130,
+      "score": 0.1
+    },
+    {
+      "path": "index.php",
+      "size": 4141,
+      "score": 0.1
+    },
+    {
+      "path": "includes/header.php",
+      "size": 3259,
+      "score": 0.1
+    },
+    {
+      "path": "includes/footer.php",
+      "size": 602,
+      "score": 0.1
+    },
+    {
+      "path": "includes/config.php",
+      "size": 5075,
+      "score": 0.1
+    },
+    {
+      "path": "headteacher/reports.php",
+      "size": 5065,
+      "score": 0.1
+    },
+    {
+      "path": "headteacher/learners.php",
+      "size": 3055,
+      "score": 0.1
+    },
+    {
+      "path": "headteacher/enroll.php",
+      "size": 8888,
+      "score": 0.1
+    },
+    {
+      "path": "headteacher/edit_learner.php",
+      "size": 10962,
+      "score": 0.1
+    },
+    {
+      "path": "headteacher/dashboard.php",
+      "size": 38813,
+      "score": 0.1
+    },
+    {
+      "path": "forgot_password.php",
+      "size": 7772,
+      "score": 0.1
+    },
+    {
+      "path": "change_password.php",
+      "size": 3257,
+      "score": 0.1
+    },
+    {
+      "path": "admin/view_report.php",
+      "size": 9370,
+      "score": 0.1
+    },
+    {
+      "path": "admin/teachers.php",
+      "size": 7492,
+      "score": 0.1
+    },
+    {
+      "path": "admin/settings.php",
+      "size": 3183,
+      "score": 0.1
+    },
+    {
+      "path": "admin/reset_password.php",
+      "size": 3184,
+      "score": 0.1
+    },
+    {
+      "path": "admin/report.php",
+      "size": 143,
+      "score": 0.1
+    },
+    {
+      "path": "admin/learners.php",
+      "size": 5448,
+      "score": 0.1
+    },
+    {
+      "path": "admin/edit_teacher.php",
+      "size": 9341,
+      "score": 0.1
+    },
+    {
+      "path": "admin/dashboard.php",
+      "size": 8411,
+      "score": 0.1
+    },
+    {
+      "path": "admin/classes.php",
+      "size": 6275,
+      "score": 0.1
+    },
+    {
+      "path": "assets/css/style.css",
+      "size": 13456,
+      "score": 0.02
+    },
+    {
+      "path": "database.sql",
+      "size": 6068,
+      "score": 0.02
+    }
+  ]
+}
