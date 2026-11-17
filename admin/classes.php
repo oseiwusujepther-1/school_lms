@@ -145,4 +145,19 @@ require_once __DIR__ . '/../includes/header.php';
     </div>
 </div>
 
+<section class="image-gallery" aria-label="School LMS images">
+    <img src="/assets/images/active_learners.jpg" alt="Active learners" />
+    <img src="/assets/images/admin_dashboard.jpg" alt="Admin dashboard" />
+    <img src="/assets/images/approved_report.jpg" alt="Approved report" />
+    <img src="/assets/images/classes.jpg" alt="Classes" />
+    <img src="/assets/images/draft_report.jpg" alt="Draft report" />
+    <img src="/assets/images/enroll_new_pupil.jpg" alt="Enroll new pupil" />
+    <img src="/assets/images/login_background.jpg" alt="Login background" />
+    <img src="/assets/images/pending_approval.jpg" alt="Pending approval" />
+    <img src="/assets/images/pending_reports.jpg" alt="Pending reports" />
+    <img src="/assets/images/report_submission_background.jpg" alt="Report submission background" />
+    <img src="/assets/images/school_settings.jpg" alt="School settings" />
+    <img src="/assets/images/teacher_register_background.jpg" alt="Teacher registration background" />
+    <img src="/assets/images/teachers_card.jpg" alt="Teachers card" />
+</section>
 <?php require_once __DIR__ . '/../includes/footer.php'; ?>
